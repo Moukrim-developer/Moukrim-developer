@@ -46,6 +46,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, Material UI  
+- **Tools:** Git, GitHub, VS Code  
 
 ###
 
