@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Developer passionate about crafting clean, fast, and responsive web applications with JavaScript, PHP, MySQL, and modern front-end tools like HTML, CSS, and Bootstrap.<br><br>  -🌱 I’m currently learning **    JavaScript & PHP**<br>  -💬 Ask me about JavaScript, PHP,       Full-Stack Development, Web Design<br>   -📫 How to reach me moukrim.meriem.dev@gmail.com<br><br>_______________________________________________________________________________________________________________________________</p>
+<p align="left">I'm a Full Stack Developer passionate about crafting clean, fast, and responsive web applications with JavaScript, PHP, MySQL, and modern front-end tools like HTML, CSS, and Bootstrap.<br><br>  -🌱 I’m currently learning **    JavaScript & PHP**<br>  -💬 Ask me about JavaScript, PHP,       Full-Stack Development, Web Design<br>   -📫 How to reach me moukrim.meriem.dev@gmail.com<br><br></p>
 
 ###
 
@@ -51,14 +51,11 @@
 
 ###
 
-<br>_______________________________________________________________________________________________________________________________
-###
+<br>
 
 <h2 align="left">🔥   My Stats :</h2>
 
 ###
-
-<p><a href="https://www.buymeacoffee.com/Moukrim-developer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Moukrim-developer" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moukrim-developer&show_icons=true&locale=en&layout=compact" alt="moukrim-developer" /></p>
 
